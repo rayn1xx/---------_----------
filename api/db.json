@@ -1,0 +1,33 @@
+{
+  "productTypes": [
+    {
+      "id": "3s-oN_s",
+      "packsNumber": 20,
+      "packageType": "компрессия",
+      "isArchived": false,
+      "description": "Описание продукции\nВ несколько строк",
+      "createdAt": "2024-01-23T16:08:24.630Z"
+    },
+    {
+      "id": "2b3f",
+      "packsNumber": 2,
+      "packageType": "некомпрессия",
+      "isArchived": true,
+      "description": "клоун"
+    },
+    {
+      "id": "dfb7",
+      "packsNumber": 3,
+      "packageType": "некомпрессия",
+      "isArchived": true,
+      "description": "аца"
+    },
+    {
+      "id": "f274",
+      "packsNumber": null,
+      "packageType": "",
+      "isArchived": false,
+      "description": ""
+    }
+  ]
+}

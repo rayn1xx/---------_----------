@@ -1,0 +1,23 @@
+{
+  "name": "product-type-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    
+    "axios": "^0.21.1",
+    "element-plus": "^2.0.0",
+    "font-awesome": "^4.7.0",
+    "pinia": "^2.0.0",
+    "vee-validate": "^4.0.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "yup": "^0.32.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.19",
+    "@element-plus/icons-vue": "^2.0.0"
+  }
+}
